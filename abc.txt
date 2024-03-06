@@ -1,44 +1,31 @@
-172.67.64.3:443#Hong Kong,Asia Pacific
-162.159.153.113:443#Hong Kong,Asia Pacific
-104.27.109.116:443#San Jose,North America
-172.64.131.109:443#Madrid,Europe
-104.26.11.88:443#Hong Kong,Asia Pacific
-172.64.175.136:443#Madrid,Europe
-172.64.174.52:443#Madrid,Europe
-104.20.22.223:443#Hong Kong,Asia Pacific
-162.159.136.158:443#Hong Kong,Asia Pacific
-104.24.8.90:443#San Jose,North America
-104.26.9.253:443#Hong Kong,Asia Pacific
-104.26.14.13:443#Hong Kong,Asia Pacific
-172.67.66.229:443#Hong Kong,Asia Pacific
-172.64.170.141:443#Madrid,Europe
-162.159.142.112:443#Hong Kong,Asia Pacific
-162.159.138.48:443#Hong Kong,Asia Pacific
-172.64.162.188:443#Madrid,Europe
-104.26.4.250:443#Hong Kong,Asia Pacific
-162.159.140.46:443#Hong Kong,Asia Pacific
-172.67.79.48:443#Hong Kong,Asia Pacific
-172.67.72.87:443#Hong Kong,Asia Pacific
-104.26.8.32:443#Hong Kong,Asia Pacific
-162.159.129.252:443#Hong Kong,Asia Pacific
-172.64.40.146:443#Los Angeles,North America
-104.26.13.202:443#Hong Kong,Asia Pacific
-162.159.130.44:443#Hong Kong,Asia Pacific
-172.64.132.113:443#Madrid,Europe
-104.26.6.109:443#Hong Kong,Asia Pacific
-172.64.157.204:443#San Jose,North America
-172.67.12.120:443#San Jose,North America
-162.159.137.10:443#Hong Kong,Asia Pacific
-104.20.25.187:443#Hong Kong,Asia Pacific
-104.17.169.33:443#获取超时
-104.26.3.205:443#Hong Kong,Asia Pacific
-172.64.111.208:443#Madrid,Europe
-104.20.20.246:443#Hong Kong,Asia Pacific
-104.16.240.133:443#San Jose,North America
-172.67.69.203:443#Hong Kong,Asia Pacific
-172.64.160.114:443#Madrid,Europe
-172.67.71.24:443#Hong Kong,Asia Pacific
-162.159.134.149:443#Hong Kong,Asia Pacific
-172.64.96.188:443#Madrid,Europe
-172.64.129.124:443#Madrid,Europe
-104.24.220.145:443#San Jose,North America
+
+104.20.50.172:2053#San Jose,North America
+172.67.87.35:2053#San Jose,North America
+104.26.15.106:2053#Hong Kong,Asia Pacific
+104.17.18.203:2053#San Jose,North America
+172.64.205.248:2053#Madrid,Europe
+162.159.58.244:2053#Tokyo,Asia Pacific
+172.67.179.16:2053#San Jose,North America
+172.64.133.76:2053#Madrid,Europe
+104.26.1.242:2053#Hong Kong,Asia Pacific
+162.159.135.51:2053#Hong Kong,Asia Pacific
+172.64.201.17:2053#Madrid,Europe
+104.26.9.134:2053#Hong Kong,Asia Pacific
+162.159.134.249:2053#Hong Kong,Asia Pacific
+104.26.6.158:2053#Hong Kong,Asia Pacific
+104.20.31.174:2053#Hong Kong,Asia Pacific
+104.26.8.226:2053#Hong Kong,Asia Pacific
+172.67.77.183:2053#Hong Kong,Asia Pacific
+162.159.133.84:2053#Hong Kong,Asia Pacific
+104.20.19.186:2053#Hong Kong,Asia Pacific
+104.20.29.85:2053#Hong Kong,Asia Pacific
+172.64.229.231:2053#Tokyo,Asia Pacific
+104.20.16.113:2053#Hong Kong,Asia Pacific
+172.67.76.175:2053#Hong Kong,Asia Pacific
+172.67.137.75:2053#San Jose,North America
+172.67.68.240:2053#Hong Kong,Asia Pacific
+104.26.4.168:2053#Hong Kong,Asia Pacific
+172.67.27.77:2053#San Jose,North America
+104.20.23.145:2053#Hong Kong,Asia Pacific
+172.67.44.54:2053#San Jose,North America
+172.67.102.62:2053#San Jose,North America
