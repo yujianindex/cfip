@@ -1,5 +1,6 @@
 #!/bin/bash
 # better-cloudflare-ip
+python3 ips-v4.py >ips-v4.txt
 >abc.txt
 bandwidth=5  #最小带宽
 tasknum=50 #并发数
@@ -449,7 +450,6 @@ do
 	else
 		break
 	fi
-	curl --retry 2 -s https://www.baipiao.eu.org/cloudflare/ips-v4 -o ips-v4.txt
 done
 }
 datacheck
@@ -543,4 +543,5 @@ do
 		#clear
 	fi
 done
+
 
