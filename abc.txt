@@ -1,0 +1,30 @@
+172.64.243.9:8443#Newark,North America
+108.162.217.80:8443#获取超时
+172.69.220.212:8443#Newark,North America
+172.69.241.110:8443#获取超时
+172.67.24.106:8443#Atlanta,North America
+104.25.99.17:8443#Chicago,North America
+172.66.201.33:8443#Hong Kong,Asia Pacific
+172.64.107.49:8443#获取超时
+172.69.225.176:8443#Frankfurt,Europe
+162.159.139.54:8443#San Jose,North America
+162.159.165.141:8443#San Jose,North America
+172.70.24.68:8443#Frankfurt,Europe
+104.17.67.2:8443#Frankfurt,Europe
+172.71.68.213:8443#San Jose,North America
+141.101.113.217:8443#San Jose,North America
+190.93.244.63:8443#San Jose,North America
+172.70.155.104:8443#Frankfurt,Europe
+108.162.211.242:8443#San Jose,North America
+198.41.248.139:8443#San Jose,North America
+172.66.155.170:8443#San Jose,North America
+188.114.108.32:8443#Frankfurt,Europe
+173.245.56.175:8443#San Jose,North America
+104.16.154.104:8443#Frankfurt,Europe
+198.41.214.224:8443#Frankfurt,Europe
+172.64.197.186:8443#San Jose,North America
+172.67.133.100:8443#Frankfurt,Europe
+172.64.180.164:8443#San Jose,North America
+172.64.14.115:8443#San Jose,North America
+172.65.126.236:8443#Frankfurt,Europe
+172.68.187.188:8443#San Jose,North America
