@@ -1,30 +1,30 @@
-104.23.30.85:8443#Newark,North America
-172.65.179.18:8443#Newark,North America
-172.71.75.207:8443#Newark,North America
-172.65.126.206:8443#Newark,North America
-172.69.221.145:8443#Newark,North America
-172.65.238.39:8443#Newark,North America
-172.67.227.24:8443#Newark,North America
-172.67.200.142:8443#Newark,North America
-162.159.43.12:8443#Newark,North America
-198.41.207.115:8443#Newark,North America
-104.27.52.230:8443#Newark,North America
-198.41.174.71:8443#Newark,North America
-172.70.93.137:8443#Newark,North America
-104.26.202.186:8443#Newark,North America
-104.25.109.128:8443#Newark,North America
-172.65.161.156:8443#Newark,North America
-198.41.211.21:8443#Newark,North America
-172.70.68.10:8443#Newark,North America
-172.71.232.210:8443#Newark,North America
-172.66.169.248:8443#Newark,North America
-172.70.28.228:8443#Newark,North America
-104.27.100.254:8443#Newark,North America
-172.65.127.162:8443#Newark,North America
-198.41.165.11:8443#Newark,North America
-162.159.72.43:8443#Newark,North America
-198.41.184.167:8443#Newark,North America
-172.64.184.166:8443#Newark,North America
-172.67.207.18:8443#Newark,North America
-162.159.171.163:8443#Newark,North America
-172.66.22.75:8443#Newark,North America
+172.64.229.13:8443#Toronto Canada 
+172.65.236.27:8443#Toronto Canada 
+172.65.238.97:8443#San Francisco United States 
+172.65.239.250:8443#Toronto Canada 
+172.67.73.87:8443#Toronto Canada 
+172.65.237.230:8443#San Francisco United States 
+172.67.70.169:8443#San Francisco United States 
+172.67.66.104:8443#San Francisco United States 
+104.20.16.96:8443#Toronto Canada 
+172.67.69.123:8443#Toronto Canada 
+172.65.229.26:8443#Toronto Canada 
+172.67.77.200:8443#Toronto Canada 
+104.20.30.97:8443#Toronto Canada 
+172.67.65.162:8443#San Francisco United States 
+172.67.76.176:8443#Toronto Canada 
+104.26.5.0:8443#Toronto Canada 
+172.67.78.49:8443#Toronto Canada 
+104.20.19.94:8443#Toronto Canada 
+172.65.230.167:8443#Toronto Canada 
+104.20.21.3:8443#Toronto Canada 
+104.26.14.223:8443#Toronto Canada 
+172.67.79.113:8443#San Francisco United States 
+172.67.72.236:8443#Toronto Canada 
+104.26.9.20:8443#Toronto Canada 
+172.67.68.130:8443#Toronto Canada 
+172.65.226.177:8443#Toronto Canada 
+162.159.140.72:8443#Toronto Canada 
+104.20.29.149:8443#Toronto Canada 
+162.159.141.171:8443#Toronto Canada 
+104.20.28.219:8443#Toronto Canada 
