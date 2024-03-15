@@ -1,30 +1,30 @@
-172.64.243.9:8443#Newark,North America
-108.162.217.80:8443#获取超时
-172.69.220.212:8443#Newark,North America
-172.69.241.110:8443#获取超时
-172.67.24.106:8443#Atlanta,North America
-104.25.99.17:8443#Chicago,North America
-172.66.201.33:8443#Hong Kong,Asia Pacific
-172.64.107.49:8443#获取超时
-172.69.225.176:8443#Frankfurt,Europe
-162.159.139.54:8443#San Jose,North America
-162.159.165.141:8443#San Jose,North America
-172.70.24.68:8443#Frankfurt,Europe
-104.17.67.2:8443#Frankfurt,Europe
-172.71.68.213:8443#San Jose,North America
-141.101.113.217:8443#San Jose,North America
-190.93.244.63:8443#San Jose,North America
-172.70.155.104:8443#Frankfurt,Europe
-108.162.211.242:8443#San Jose,North America
-198.41.248.139:8443#San Jose,North America
-172.66.155.170:8443#San Jose,North America
-188.114.108.32:8443#Frankfurt,Europe
-173.245.56.175:8443#San Jose,North America
-104.16.154.104:8443#Frankfurt,Europe
-198.41.214.224:8443#Frankfurt,Europe
-172.64.197.186:8443#San Jose,North America
-172.67.133.100:8443#Frankfurt,Europe
-172.64.180.164:8443#San Jose,North America
-172.64.14.115:8443#San Jose,North America
-172.65.126.236:8443#Frankfurt,Europe
-172.68.187.188:8443#San Jose,North America
+104.23.30.85:8443#Newark,North America
+172.65.179.18:8443#Newark,North America
+172.71.75.207:8443#Newark,North America
+172.65.126.206:8443#Newark,North America
+172.69.221.145:8443#Newark,North America
+172.65.238.39:8443#Newark,North America
+172.67.227.24:8443#Newark,North America
+172.67.200.142:8443#Newark,North America
+162.159.43.12:8443#Newark,North America
+198.41.207.115:8443#Newark,North America
+104.27.52.230:8443#Newark,North America
+198.41.174.71:8443#Newark,North America
+172.70.93.137:8443#Newark,North America
+104.26.202.186:8443#Newark,North America
+104.25.109.128:8443#Newark,North America
+172.65.161.156:8443#Newark,North America
+198.41.211.21:8443#Newark,North America
+172.70.68.10:8443#Newark,North America
+172.71.232.210:8443#Newark,North America
+172.66.169.248:8443#Newark,North America
+172.70.28.228:8443#Newark,North America
+104.27.100.254:8443#Newark,North America
+172.65.127.162:8443#Newark,North America
+198.41.165.11:8443#Newark,North America
+162.159.72.43:8443#Newark,North America
+198.41.184.167:8443#Newark,North America
+172.64.184.166:8443#Newark,North America
+172.67.207.18:8443#Newark,North America
+162.159.171.163:8443#Newark,North America
+172.66.22.75:8443#Newark,North America
