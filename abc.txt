@@ -58,3 +58,6 @@
 104.26.12.148:8443#Hong Kong,Asia Pacific
 104.20.27.96:8443#Hong Kong,Asia Pacific
 162.159.45.29:8443#Los Angeles,North America
+104.25.205.30:8443#Los Angeles,North America
+104.27.125.113:8443#Los Angeles,North America
+162.159.49.35:8443#Los Angeles,North America
